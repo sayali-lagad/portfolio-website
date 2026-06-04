@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <h2>Sayali Lagad</h2>
+
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Projects</li>
+        <li>Contact</li>
+    </ul>
+</nav>                  
+
+<script src="script.js"></script>
+
+</body>
+</html>
